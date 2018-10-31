@@ -1,1 +1,5 @@
-# staek
+# steak
+
+    npm i
+    
+     gulp
